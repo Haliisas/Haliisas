@@ -40,15 +40,16 @@
 
 ###
 
-<div data-importer="socials" align="center">
-  <a href="www.linkedin.com/in/pierre-todeschini-6a40741a9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<div align="center">
+  <a href="www.linkedin.com/in/pierre-todeschini-6a40741a9">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="pierre.todeschini@inserm.fr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+  <a href="https://orcid.org/0009-0001-1511-6650">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--1511--6650-A6CE39?style=flat&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-  [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:votre.email@outlook.com)
+  <a href="mailto:pierre.todeschini@inserm.fr">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ###
