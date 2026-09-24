@@ -36,12 +36,12 @@
 
 ###
 
-<p data-importer="text" align="left">Hello World!!</p>
+<p data-importer="text" align="left"> **[Can Anatomical Information Guide the Performance of Convolutional Neural Networks for Classifying Neurodegenerative Diseases Using Brain MRI?](https://hal.science/hal-05506121v1)**</p>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/pierre-todeschini-6a40741a9">
+  <a href="https://www.linkedin.com/in/pierre-todeschini-6a40741a9">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://orcid.org/0009-0001-1511-6650">
