@@ -36,7 +36,7 @@
 
 ###
 
-<p data-importer="text" align="left"> **[Can Anatomical Information Guide the Performance of Convolutional Neural Networks for Classifying Neurodegenerative Diseases Using Brain MRI?](https://hal.science/hal-05506121v1)**</p>
+**[Can Anatomical Information Guide the Performance of Convolutional Neural Networks for Classifying Neurodegenerative Diseases Using Brain MRI?](https://hal.science/hal-05506121v1)** *DOI : 10.1109/MetroXRAINE66377.2025.11340461*
 
 ###
 
